@@ -1,8 +1,9 @@
 # Flappy Bird Clone
+<div>
+   <img src="Screenshots/ss.png">
+   <img src="Screenshots/ss1.png">
+</div>
 
-<img src="Screenshots/ss.png">
-
-<img src="Screenshots/ss1.png">
 
 ## 🎮 Oyun Hakkında
 Flappy Bird, reflekslerini test eden bağımlılık yapıcı bir mobil oyundur! Oyuncular, ekrana dokunarak kuşu boruların arasından geçirmeye çalışır. Zorlayıcı oynanışıyla eğlenceli ve rekabetçi bir deneyim sunar.
