@@ -8,7 +8,7 @@ Flappy Bird, reflekslerini test eden bağımlılık yapıcı bir mobil oyundur! 
 ## 🛠 Kurulum
 1. **Depoyu Klonla:**
    ```sh
-   git clone https://github.com/KULLANICI_ADI/Flappy-Bird.git
+   git clone https://github.com/Tolga uslu/Flappy-Bird.git
    ```
 2. **Proje Klasörüne Gir:**
    ```sh
