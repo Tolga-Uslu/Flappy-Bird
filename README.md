@@ -1,7 +1,8 @@
 # Flappy Bird Clone
-<div>
-   <img src="Screenshots/ss.png">
-   <img src="Screenshots/ss1.png">
+
+<div style="display: flex; justify-content: center; gap: 30px;">
+   <img src="Screenshots/ss.png" width="45%">
+   <img src="Screenshots/ss1.png" width="45%">
 </div>
 
 
